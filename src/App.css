@@ -10,11 +10,24 @@ body {
   margin: 80px auto 0 auto;
   max-width: 1200px;
 }
-
-.nav-container {
-  margin: auto;
+.routes {
+  justify-content: center;
+  width: 33%;
 }
 
+.navGridItem {
+  text-align: center;
+  padding-top: 10px;
+}
+.navGrid {
+  height: 65px;
+}
+
+.logo {
+  padding-top: 10px;
+  margin-left: 20px;
+  width: 200px;
+}
 a {
   text-decoration: none;
 }
